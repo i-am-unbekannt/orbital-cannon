@@ -1,5 +1,4 @@
 # Orbital Cannon
-### Start DDos Attacks like a Orbital Strike
 
 ----------
 
