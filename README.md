@@ -13,7 +13,7 @@ Feel free to share your feedback, suggestions, or comments.
 
 #### Sneak peeks
 <p align="center">
-  <img src="img/dash.png">
-  <img src="img/attack1.png">
-  <img src="img/attack2.png">
+  <img src="https://raw.githubusercontent.com/i-am-unbekannt/orbital-cannon/main/img/dash.PNG">
+  <img src="https://raw.githubusercontent.com/i-am-unbekannt/orbital-cannon/main/img/attack1.PNG">
+  <img src="https://raw.githubusercontent.com/i-am-unbekannt/orbital-cannon/main/img/attack2.PNG">
 </p>
